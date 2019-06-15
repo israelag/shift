@@ -5,3 +5,4 @@ linha incluida na branch master
 
 Incluí esta linha na branch dev bem onde tinha uma linha na branch dev
 
+linha incluída remotamente.
