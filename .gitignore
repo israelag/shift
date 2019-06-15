@@ -1,0 +1,5 @@
+teste/             #todos arquivos dentro da pasta teste e sub pastas de mesmo nome
+*.jpg              #todos arquivos com extensão .jpg
+/teste/            #todos arquivos dentro da pasta teste, da raiz. Sub pastas de mesmo nome entram no versionamento
+/teste/*.jpg       #todos arquivos com extensão .jpg dentro da pasta teste da raiz
+!/teste/teste.jpg  #Exceto arquivo teste.jpg da pasta teste da raiz
