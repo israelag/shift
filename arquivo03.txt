@@ -1,1 +1,3 @@
 Alteração criada na branch dev
+
+Incluí esta linha na branch dev bem onde tinha uma linha na branch dev
