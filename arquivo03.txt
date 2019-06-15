@@ -1,3 +1,7 @@
 Alteração criada na branch dev
 
+
 linha incluida na branch master
+
+Incluí esta linha na branch dev bem onde tinha uma linha na branch dev
+
